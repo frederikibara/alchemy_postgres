@@ -33,4 +33,5 @@ Create a virtual environment and activate it:
 python -m venv venv
 
 venv\Scripts\activate     # For Windows
+
 source venv/bin/activate  # For Unix
