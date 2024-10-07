@@ -31,5 +31,6 @@ The system allows for the management of students, teachers, subjects, and grades
 Create a virtual environment and activate it:
 
 python -m venv venv
-source venv/bin/activate  # For Unix
+
 venv\Scripts\activate     # For Windows
+source venv/bin/activate  # For Unix
