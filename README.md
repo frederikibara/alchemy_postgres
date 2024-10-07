@@ -16,7 +16,7 @@ The system allows for the management of students, teachers, subjects, and grades
 1) Create a teacher
 - py main.py -a create -m Teacher -n 'Boris Jonson'
 
-3) Create a group
+2) Create a group
 - py main.py -a create -m Group -n 'AD-101'  
 
 
