@@ -11,7 +11,14 @@ The system allows for the management of students, teachers, subjects, and grades
 - **Grade Management**: Assign and manage grades for students.
 - **Database Migrations**: Seamlessly manage database schema changes with Alembic.
 
-## Installation
+## Examples of commands in the terminal
+
+1) Create a teacher
+- py main.py -a create -m Teacher -n 'Boris Jonson'
+
+2) Create a group
+-  py main.py -a create -m Group -n 'AD-101'  
+
 
 ### Requirements
 
