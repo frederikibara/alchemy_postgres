@@ -5,7 +5,6 @@ import random
 from models import Base, Student, Group, Teacher, Subject, Grade
 
 fake = Faker()
-# engine = create_engine('postgresql://postgres:mysecurepassword@localhost/mydatabase')
 engine = create_engine('postgresql://postgres:11111@localhost/postgres')
 
 Session = sessionmaker(bind=engine)
